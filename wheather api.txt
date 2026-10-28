@@ -1,0 +1,12 @@
+this program gets the current wheather details of a city using the OpenWeatherMap API.
+
+API = Application Programming Interface
+
+    API is a bridge that allows one application to communicate with another application and exchange data.
+    real-life example=
+                    you = python program
+                    waiter = API
+                    kitchen = OpenWeatherMap server
+
+ URL = Uniform Resource Locator,
+             is the web address used to locate and access a reasource or service on the internet.                
